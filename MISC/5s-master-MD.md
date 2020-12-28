@@ -7,7 +7,7 @@
 
 ~~this is deleteline~~  
 **this is blod**  
-this is italic*  
+*this is italic*  
 
 ```
 this is block
@@ -19,6 +19,8 @@ this is block
 ![images](url)  
 [webname](url)
 
+***
+(underline)
 
 用两个空格+Enter实现换行  
 test  
