@@ -21,7 +21,7 @@
 ### GCC
 
 ```shell
-conda install gxx_linux-64 gxx_impl_linux-64 gcc_linux-64 gcc_impl_linux-64=9.3.0
+conda install gxx_linux-64 gxx_impl_linux-64 gcc_linux-64 gcc_impl_linux-64=9.3.0 -c conda-forge 
 cd $(dirname $(which python))
 ln -s x86_64-conda-linux-gnu-gcc gcc
 ln -s x86_64-conda-linux-gnu-g++ g++
